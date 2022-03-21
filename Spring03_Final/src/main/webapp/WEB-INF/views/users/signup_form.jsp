@@ -30,7 +30,7 @@
 		<div>
 			<label class="control-label" for="email">이메일</label>
 			<input class="form-control" type="text" name="email" id="email"/>
-			<div class="invalid-feedback">이메일 형식을 확인 하세요.</div>
+			<div class="invalid-feedback">이메일 주소를 다시 확인해주세요.</div>
 		</div>
 		<button class="btn btn-primary" type="submit">가입</button>
 	</form>
